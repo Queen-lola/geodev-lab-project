@@ -14,4 +14,11 @@ What are the suitable areas for beekeeping in Peramiho Ward?
 - Rivers - OSM 
 - Roads - OSM
 - Settlements - OSM 
-- Administrative Boundary - Tanzania administrative data 
+- Administrative Boundary - Tanzania administrative data
+
+
+
+
+## Month 2: Preparation of environment, and early python 
+
+Week 5: 1 setup python, Vs code and the terminal.hello.py runs
